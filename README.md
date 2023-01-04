@@ -189,6 +189,8 @@ Gira 180 grados.
 
 ## 4._ Video 
 
+  - https://youtu.be/i8juX-466FQ
+
 ## 5._ Conclusiones
 
   - EL uso de procedimientos algebraicos y la interpretacion en diferentes angulos de un circuito facilita la capacidad de obtener valores de corriente, voltaje y resistencia que interactuan en una posicion determinada del circuito mediante la correcta interpretacion de las leyes que relacionan estas tres magnitudes y variantes presentes en el estudio de circuitos. 
@@ -200,4 +202,6 @@ Gira 180 grados.
   - Los principios basicos del magnetismo y electromagnetismo combinados son muy importantes en la elaboracion de dispositivos elementales en el uso de las personas como altavoces o cerraduras electronicas, entre otros.
 
 ## 6._ Bibliografia 
+
+  - Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
 
